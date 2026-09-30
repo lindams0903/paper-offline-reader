@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文手机离线精读"
+  short_description: "把论文做成含中文精读、原图与完整原文的手机离线网页，支持字号和夜间模式"
+  default_prompt: "使用 $paper-offline-reader，把这篇论文整理成适合手机阅读的单文件离线网页。"
