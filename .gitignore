@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+output/
+tmp/
+*.pdf
+content.json
+!examples/content.json
+.DS_Store
+Thumbs.db
